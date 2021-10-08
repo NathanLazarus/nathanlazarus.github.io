@@ -13,4 +13,4 @@ author_profile: true
 I'm a research assistant in economics.
 <br>
 
-You can contact me at: [nlaz@stanford.edu](mailto:nlaz@stanford.edu)
+You can contact me at [nlaz@stanford.edu](mailto:nlaz@stanford.edu)
