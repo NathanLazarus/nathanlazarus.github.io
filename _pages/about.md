@@ -10,9 +10,8 @@ author_profile: true
 
 <!-- <img src="/images/profile.jpg" alt="drawing" width="400" height="520" style="float: left; padding-right:15px"/> -->
 
-| ![profile.jpg](/images/profile.jpg) | 
-|:--:|
-| *Space* |
+![profile.jpg](/images/profile.jpg)
+*Space*
 I'm a research assistant in economics.
 <br>
 
