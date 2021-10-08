@@ -1,11 +1,11 @@
 ---
 permalink: /
-title:  "About me"
+title:  "Nathan Lazarus"
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+# redirect_from: 
+#   - /about/
+#   - /about.html
 ---
 
 <!-- <img src="/images/profile.jpg" alt="drawing" width="400" height="520" style="float: left; padding-right:15px"/> -->
