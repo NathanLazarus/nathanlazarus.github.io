@@ -1,0 +1,15 @@
+---
+permalink: /
+title:  "About me"
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+<img src="/images/profile.jpg" alt="drawing" width="400" height="520" style="float: left; padding-right:15px"/>  I'm a research assistant in economics.
+<br>
+
+
+You can contact me at: [nlazarus@stanford.edu](mailto:nlazarus@stanford.edu)
