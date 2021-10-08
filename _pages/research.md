@@ -34,8 +34,7 @@ Before automatic exchange of information, the 2005 Savings Tax Directive was the
 
 ## Works in progress  
 
-  **Revealed Preference Job Ladders** (with Benjamin Scuderi)  <br/>
+  **Test** (with Benjamin Scuderi)  <br/>
 
   **Asymmetric Peer Effects: How White Peers Shape Black Turnover** (with Elizabeth Linos and Sanaz Mobasseri)   <br/>
-
 
