@@ -12,4 +12,4 @@ redirect_from:
 <br>
 
 
-You can contact me at: [nlazarus@stanford.edu](mailto:nlazarus@stanford.edu)
+You can contact me at: [nlaz@stanford.edu](mailto:nlaz@stanford.edu)
