@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV [Here](/files/cv.pdf)
+I've programmed in Stata, R, Mathematica, Matlab, Python, and Fortran.

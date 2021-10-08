@@ -8,12 +8,9 @@ author_profile: true
 #   - /about.html
 ---
 
-<!-- <img src="/images/profile.jpg" alt="drawing" width="400" height="520" style="float: left; padding-right:15px"/> -->
+<img src="/images/profile.jpg" alt="drawing" width="400" height="520" style="float: left; padding-right:15px"/>
 
-![profile.jpg](/images/profile.jpg)
-*Space*
 I'm a research assistant in economics.
 <br>
-
 
 You can contact me at: [nlaz@stanford.edu](mailto:nlaz@stanford.edu)
