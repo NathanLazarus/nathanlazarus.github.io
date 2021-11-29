@@ -24,3 +24,7 @@ We study a dynamic investment game in which firms are differentiated by their R&
 **Dynamic Modeling of the Climate Under Uncertainty** (with Yongyang Cai and Kenneth Judd)
 
 **Mergers** (with Mordecai Kurz)
+
+## Presentations
+
+**Dynamic Games and HTCondor** ([pdf](/files/DyanmicGamesAndHTCondor.pdf)) UZH, 2021 (with Yongyang Cai, Mordecai Kurz and Kenneth Judd)
