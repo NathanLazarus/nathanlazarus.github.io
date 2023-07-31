@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Nathan Lazarus</title>
+    <link>https://www.nathanlazarus.com/publication/</link>
+      <atom:link href="https://www.nathanlazarus.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:07:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.nathanlazarus.com/images/icon_hubb842fd32aaf5e2c99ebefe97f58aac3_52641_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://www.nathanlazarus.com/publication/</link>
+    </image>
+    
+    <item>
+      <title>Habit Preferences</title>
+      <link>https://www.nathanlazarus.com/publication/habit_preferences/</link>
+      <pubDate>Thu, 01 Dec 2022 00:07:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/habit_preferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Unemployment Insurance Schedules</title>
+      <link>https://www.nathanlazarus.com/publication/optimal_ui/</link>
+      <pubDate>Thu, 01 Dec 2022 00:06:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/optimal_ui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schooling and Labor Market Consequences of School Construction in Indonesia: Response to a Comment</title>
+      <link>https://www.nathanlazarus.com/publication/duflo2001/</link>
+      <pubDate>Thu, 01 Dec 2022 00:05:30 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/duflo2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exhaustible Resource Extraction as a Dynamic Game</title>
+      <link>https://www.nathanlazarus.com/publication/oil_game/</link>
+      <pubDate>Thu, 01 Dec 2022 00:05:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/oil_game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Games of R&amp;D Investment</title>
+      <link>https://www.nathanlazarus.com/publication/dynamic_rd/</link>
+      <pubDate>Thu, 01 Dec 2022 00:04:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/dynamic_rd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impacts of Predictive Scheduling Laws</title>
+      <link>https://www.nathanlazarus.com/publication/predictive_scheduling/</link>
+      <pubDate>Thu, 01 Dec 2022 00:03:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/predictive_scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Policy to Achieve 2 Degrees Warming</title>
+      <link>https://www.nathanlazarus.com/publication/climate/</link>
+      <pubDate>Thu, 01 Dec 2022 00:02:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/climate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Model of Worker Deaths and Firm Adjustment</title>
+      <link>https://www.nathanlazarus.com/publication/masters_thesis/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/masters_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Games and HTCondor</title>
+      <link>https://www.nathanlazarus.com/publication/cef/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/cef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Average Firm and Worker Effects in Matched Employer-Employee Data</title>
+      <link>https://www.nathanlazarus.com/publication/akm_ate/</link>
+      <pubDate>Fri, 01 Apr 2022 00:04:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/akm_ate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Games and HTCondor</title>
+      <link>https://www.nathanlazarus.com/publication/uzh/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/uzh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Race and Declining Labor Force Participation</title>
+      <link>https://www.nathanlazarus.com/publication/undergrad_thesis/</link>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/undergrad_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.nathanlazarus.com/publication/mergers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/mergers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

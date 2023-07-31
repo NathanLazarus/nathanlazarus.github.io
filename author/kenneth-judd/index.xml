@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kenneth Judd | Nathan Lazarus</title>
+    <link>https://www.nathanlazarus.com/author/kenneth-judd/</link>
+      <atom:link href="https://www.nathanlazarus.com/author/kenneth-judd/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kenneth Judd</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:05:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.nathanlazarus.com/images/icon_hubb842fd32aaf5e2c99ebefe97f58aac3_52641_512x512_fill_lanczos_center_3.png</url>
+      <title>Kenneth Judd</title>
+      <link>https://www.nathanlazarus.com/author/kenneth-judd/</link>
+    </image>
+    
+    <item>
+      <title>Exhaustible Resource Extraction as a Dynamic Game</title>
+      <link>https://www.nathanlazarus.com/publication/oil_game/</link>
+      <pubDate>Thu, 01 Dec 2022 00:05:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/oil_game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Games of R&amp;D Investment</title>
+      <link>https://www.nathanlazarus.com/publication/dynamic_rd/</link>
+      <pubDate>Thu, 01 Dec 2022 00:04:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/dynamic_rd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Policy to Achieve 2 Degrees Warming</title>
+      <link>https://www.nathanlazarus.com/publication/climate/</link>
+      <pubDate>Thu, 01 Dec 2022 00:02:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/climate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Games and HTCondor</title>
+      <link>https://www.nathanlazarus.com/publication/cef/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/cef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Games and HTCondor</title>
+      <link>https://www.nathanlazarus.com/publication/uzh/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/uzh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

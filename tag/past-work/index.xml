@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Past Work | Nathan Lazarus</title>
+    <link>https://www.nathanlazarus.com/tag/past-work/</link>
+      <atom:link href="https://www.nathanlazarus.com/tag/past-work/index.xml" rel="self" type="application/rss+xml" />
+    <description>Past Work</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.nathanlazarus.com/images/icon_hubb842fd32aaf5e2c99ebefe97f58aac3_52641_512x512_fill_lanczos_center_3.png</url>
+      <title>Past Work</title>
+      <link>https://www.nathanlazarus.com/tag/past-work/</link>
+    </image>
+    
+    <item>
+      <title>A Model of Worker Deaths and Firm Adjustment</title>
+      <link>https://www.nathanlazarus.com/publication/masters_thesis/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/masters_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Average Firm and Worker Effects in Matched Employer-Employee Data</title>
+      <link>https://www.nathanlazarus.com/publication/akm_ate/</link>
+      <pubDate>Fri, 01 Apr 2022 00:04:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/akm_ate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Race and Declining Labor Force Participation</title>
+      <link>https://www.nathanlazarus.com/publication/undergrad_thesis/</link>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/undergrad_thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
