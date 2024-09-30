@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mikey Jarrell | Nathan Lazarus</title>
+    <link>https://www.nathanlazarus.com/author/mikey-jarrell/</link>
+      <atom:link href="https://www.nathanlazarus.com/author/mikey-jarrell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mikey Jarrell</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:03:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.nathanlazarus.com/images/icon_hubb842fd32aaf5e2c99ebefe97f58aac3_52641_512x512_fill_lanczos_center_3.png</url>
+      <title>Mikey Jarrell</title>
+      <link>https://www.nathanlazarus.com/author/mikey-jarrell/</link>
+    </image>
+    
+    <item>
+      <title>Intervening to Reduce Lead Pollution from Lead-Acid Battery Charging and Recycling</title>
+      <link>https://www.nathanlazarus.com/publication/lead/</link>
+      <pubDate>Thu, 01 Dec 2022 00:03:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/lead/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
