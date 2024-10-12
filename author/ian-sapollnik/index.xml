@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ian Sapollnik | Nathan Lazarus</title>
+    <link>https://www.nathanlazarus.com/author/ian-sapollnik/</link>
+      <atom:link href="https://www.nathanlazarus.com/author/ian-sapollnik/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ian Sapollnik</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:02:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.nathanlazarus.com/images/icon_hubb842fd32aaf5e2c99ebefe97f58aac3_52641_512x512_fill_lanczos_center_3.png</url>
+      <title>Ian Sapollnik</title>
+      <link>https://www.nathanlazarus.com/author/ian-sapollnik/</link>
+    </image>
+    
+    <item>
+      <title>Price Distortions from Factor Apportionment</title>
+      <link>https://www.nathanlazarus.com/publication/apportionment/</link>
+      <pubDate>Thu, 01 Dec 2022 00:02:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/apportionment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
