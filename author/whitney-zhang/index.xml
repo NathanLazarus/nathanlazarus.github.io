@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Whitney Zhang | Nathan Lazarus</title>
+    <link>https://www.nathanlazarus.com/author/whitney-zhang/</link>
+      <atom:link href="https://www.nathanlazarus.com/author/whitney-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Whitney Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:05:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.nathanlazarus.com/images/icon_hubb842fd32aaf5e2c99ebefe97f58aac3_52641_512x512_fill_lanczos_center_3.png</url>
+      <title>Whitney Zhang</title>
+      <link>https://www.nathanlazarus.com/author/whitney-zhang/</link>
+    </image>
+    
+    <item>
+      <title>The Impacts of Predictive Scheduling Laws</title>
+      <link>https://www.nathanlazarus.com/publication/predictive_scheduling/</link>
+      <pubDate>Thu, 01 Dec 2022 00:05:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/predictive_scheduling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
