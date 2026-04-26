@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chantal Pezold | Nathan Lazarus</title>
+    <link>https://www.nathanlazarus.com/author/chantal-pezold/</link>
+      <atom:link href="https://www.nathanlazarus.com/author/chantal-pezold/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chantal Pezold</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Dec 2022 00:05:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.nathanlazarus.com/images/icon_hubb842fd32aaf5e2c99ebefe97f58aac3_52641_512x512_fill_lanczos_center_3.png</url>
+      <title>Chantal Pezold</title>
+      <link>https://www.nathanlazarus.com/author/chantal-pezold/</link>
+    </image>
+    
+    <item>
+      <title>Taxation and Labor Saving Technology</title>
+      <link>https://www.nathanlazarus.com/publication/taxes/</link>
+      <pubDate>Mon, 05 Dec 2022 00:05:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/taxes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Layoff Prioritization</title>
+      <link>https://www.nathanlazarus.com/publication/layoffs/</link>
+      <pubDate>Sun, 04 Dec 2022 00:05:00 +0000</pubDate>
+      <guid>https://www.nathanlazarus.com/publication/layoffs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
